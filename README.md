@@ -1,10 +1,10 @@
 # Happy Puzzles 🧩
 
-A print-and-play card game toolkit for exploring how people communicate, interpret, and construct abstract tasks — using puzzle pieces as a shared physical language.
+A print-and-play card game toolkit for exploring how people communicate, interpret, and construct abstract tasks. The goal of the gamed is to be hands-on and use puzzle pieces as a shared physical language.
 
 ## What is it?
 
-Happy Puzzles is a workshop game where players work with a deck of task cards and a set of physical puzzle pieces. Each card presents an analysis or reasoning task. Players use puzzle pieces to represent, communicate, and reconstruct those tasks — without necessarily using words.
+Happy Puzzles is a game where players work with a deck of task cards and a set of physical puzzle pieces. Each card presents an analysis or reasoning task. Players use puzzle pieces to represent, communicate, and reconstruct those tasks without using words. The objective is to arrive to an arrangment of puzzle pieces that also makes sense and can be de-constructed by other players. 
 
 The game is designed to surface how differently people understand the same task, how meaning shifts when passed between people, and how breaking a task into components changes the way we think about it.
 
@@ -19,7 +19,12 @@ Cards are sized to standard poker card dimensions (≈ 63.5 × 88.9 mm), 9 per A
 
 ## Printing
 
-Open `index.html` in a browser (Chrome or Edge recommended) and use **File → Print** with these settings:
+You need to start a web server to generate the set of cards (since a .csv file is being loaded).
+
+We recomment quickly running `python -m http.server` (if you do not have python installed just look for alternatives or local server setups).
+
+
+Open `index.html` in a browser and use **File → Print** (Ctrl+P) with these settings:
 
 | Setting | Value |
 |---|---|
