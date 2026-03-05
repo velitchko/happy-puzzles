@@ -46,7 +46,6 @@ The sheet contains registration marks (`+` crosshairs) at the four corners of th
 | `index.html` | Card generator — open in browser to preview and print |
 | `tasks.csv` | Task list — one task per row, edit to change card content |
 | `puzzle.svg` | Source puzzle character artwork |
-| `tmp_pdf/` | Working folder for exported PDFs |
 
 ## Customising Tasks
 
