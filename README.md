@@ -1,6 +1,6 @@
 # Happy Puzzles 🧩
 
-A print-and-play card game toolkit for exploring how people communicate, interpret, and construct abstract tasks. The goal of the gamed is to be hands-on and use puzzle pieces as a shared physical language.
+A print-and-play card game toolkit for exploring how people communicate, interpret, and construct abstract tasks. The goal of the game is to be hands-on and use puzzle pieces as a shared physical language.
 
 ## What is it?
 
@@ -49,7 +49,7 @@ The sheet contains registration marks (`+` crosshairs) at the four corners of th
 
 ## Customising Tasks
 
-Edit `tasks.csv` — the first row is a header and is skipped. Add or remove rows freely; the layout automatically adjusts the number of sheets.
+Edit `tasks.csv`: the first row is a header and is skipped. Add or remove rows freely; the layout automatically adjusts the number of sheets.
 
 ## Tech
 
